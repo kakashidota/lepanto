@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/7e3ad621-ab90-4b0c-ba3a-a8c92306d4a0/resourceGroups/Le-panto-offical/providers/Microsoft.Web/sites/Le-panto-offical",
+    "appService.deploySubpath": "."
+}
